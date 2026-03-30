@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Hello, my name is Madhuresh Mishra. I am currently studying ECE and I am in my first year of the program. I am interested in learning programming and improving my problem-solving skills. Over the next few years, I hope to gain good knowledge of programming languages and understand how software and applications are developed. I also want to work on small coding projects so that I can improve my practical skills and prepare myself for future internships and job opportunities in the technology field.
 <!--
 **madhuresh25bec10071-ui/madhuresh25bec10071-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
