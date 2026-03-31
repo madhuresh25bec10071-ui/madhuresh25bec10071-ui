@@ -1,15 +1,41 @@
-Hello, my name is Madhuresh Mishra. I am currently studying ECE and I am in my first year of the program. I am interested in learning programming and improving my problem-solving skills. Over the next few years, I hope to gain good knowledge of programming languages and understand how software and applications are developed. I also want to work on small coding projects so that I can improve my practical skills and prepare myself for future internships and job opportunities in the technology field.
-<!--
-**madhuresh25bec10071-ui/madhuresh25bec10071-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Madhuresh Mishra
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**ECE Student | VIT BHOPAL UNIVERSITY | Second-Year Student**
+
+---
+
+##  About Me
+
+*  First-year **Electronics and Communication Engineering (ECE)** student
+*  Passionate about **programming and software development**
+*  Currently improving my **problem-solving skills**
+*  Learning how real-world **applications and software systems** are built
+
+---
+
+##  Skills & Learning
+
+*  Programming (beginner level)
+*  Data Structures & Algorithms (learning phase)
+*  Exploring different programming languages
+*  Basics of software development
+
+---
+
+##  Goals
+
+*  Build strong programming fundamentals
+*  Work on small real-world projects
+*  Contribute to open-source (future goal)
+*  Prepare for internships in the tech field
+
+---
+
+##  Let's Connect
+
+*  Always open to learning and collaboration
+*  Interested in coding, tech, and problem-solving discussions
+
+
+
